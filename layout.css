@@ -1,0 +1,90 @@
+body{
+    background-image : url(https://www.avimortecidos.com.br/static/6370/sku/tricoline-tecido-tricoline-liso-100-azul-claro-d800--p-1581345145915.jpg);
+    display:flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    border-radius: 5%;
+    border-color:black;
+}
+h1{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block
+}
+p{
+    text-align: left;
+    font-family: 'Arial', Times, serif;
+}
+#linkedin{
+    padding: 10px;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    color: white;
+    border-color:blue;
+    border-radius:50%;
+    : 30px;
+}
+#github{
+    padding: 10px;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    background-color:rgb(245, 208, 43);
+    border-color:rgb(245, 208, 43);
+    border-radius:100%;
+}
+#instagram{
+    padding: 10px;
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 0, 242);
+    border-color:rgb(255, 0, 242);
+    border-radius:100%;
+}
+#youtube{
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    border-color:red;
+    border-radius:100%;
+    width: 60px;
+    height: 60px;
+}
+#email{
+    padding:10px;
+    margin: 10px;
+    color: white;
+    background-color: rgb(206, 37, 130);
+    border-radius: 10%;
+    border-color:rgb(206, 37, 130);
+    height: 50px;
+    width:150px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#curriculo{
+    padding:10px;
+    margin: 10px;
+    height: 50px;
+    width:150px;
+    border-radius: 10%;
+    border-color: yellow;
+}
+.container{
+    display:inline-block;
+}
+.foto{
+    display:inline-block;
+}
+#ola{
+    font-size: 25px;
+
+}
+#curriculo:hover{
+    background-color:yellow;
+}
